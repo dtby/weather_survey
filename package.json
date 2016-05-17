@@ -11,7 +11,9 @@
     "babel-plugin-antd": "0.3.x",
     "es3ify-loader": "^0.1.0",
     "react": "0.14.x",
-    "react-dom": "0.14.x"
+    "react-dom": "0.14.x",
+    "superagent": "^1.8.3",
+    "superagent-jsonp": "0.0.6"
   },
   "devDependencies": {
     "dora": "0.3.x",
